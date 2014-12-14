@@ -1,0 +1,47 @@
+C:\Users\isen\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\isen\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\isen\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\isen\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\isen\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.jeu.resources
+C:\Users\isen\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\isen\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\Jeu.vbproj.GenerateResource.Cache
+C:\Users\isen\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\isen\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\isen\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\isen\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.accueil.resources
+C:\Users\Max\Desktop\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Max\Desktop\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Max\Desktop\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Max\Desktop\TP4-VB-Maximilien-MARIE\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Max\Desktop\TP4-VB-Maximilien-MARIE\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Max\Desktop\TP4-VB-Maximilien-MARIE\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Max\Desktop\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Max\Desktop\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.jeu.resources
+C:\Users\Max\Desktop\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.accueil.resources
+C:\Users\Max\Desktop\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Max\Desktop\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\Jeu.vbproj.GenerateResource.Cache
+C:\Users\Max\Desktop\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.compte.resources
+C:\Users\Maxou\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Maxou\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Maxou\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Maxou\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Maxou\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Maxou\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Maxou\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Maxou\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.compte.resources
+C:\Users\Maxou\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.jeu.resources
+C:\Users\Maxou\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.accueil.resources
+C:\Users\Maxou\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Maxou\Documents\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\Jeu.vbproj.GenerateResource.Cache
+D:\sauvegarde\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\sauvegarde\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\sauvegarde\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\sauvegarde\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\sauvegarde\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\sauvegarde\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\sauvegarde\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\sauvegarde\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.compte.resources
+D:\sauvegarde\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.jeu.resources
+D:\sauvegarde\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.accueil.resources
+D:\sauvegarde\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\sauvegarde\Visual Studio 2008\Projects\TP4-VB-Maximilien-MARIE\WindowsApplication1\obj\Debug\Jeu.vbproj.GenerateResource.Cache

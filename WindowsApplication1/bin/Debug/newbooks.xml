@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--This is a comment-->
+<bookstore>
+  <book>
+    <title>The Autobiography of Mark Twain</title>
+    <Author>
+      <first-name>Mark</first-name>
+      <last-name>Twain</last-name>
+    </Author>
+    <price>7.99</price>
+  </book>
+  <book genre="autobiography" publicationdate="1979" ISBN="0-7356-0562-9" />
+</bookstore>
